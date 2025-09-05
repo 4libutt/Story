@@ -1,0 +1,6 @@
+- [ ] Controleer titel van pull request: feature/sifnummer+naam
+- [ ] Controleer of er een link naar de sif is geplakt
+- [ ] controleer of er een ebschrijving van de belangrijkste veranderingen erin staan
+- [ ] controleer of de relevante unit testen zijn aangepast
+- [ ] controleer of er unit testen voor nieuwe functies zijn toegevoegd
+- [ ] controleer of de relevante mensen voor de code review zijn toegeveogd
